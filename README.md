@@ -71,11 +71,18 @@ As the toolkit grows, use package and test directories such as `src/` and `tests
 | Name | GitHub Handle | Primary Contribution |
 |---|---|---|
 | Franceli Gonzalez | francelivgonzalez | TBD |
-| TBD | TBD | TBD |
+| Aisha Mouss | aishamouu | TBD |
 | TBD | TBD | TBD |
 | TBD | TBD | TBD |
 
-Update this table as responsibilities become clear. Contributions should name concrete ownership such as connector implementation, EDA, model training, evaluation harness, packaging, documentation, or final demo.
+## My Contributions
+
+As a Break Through Tech AI Fellow, I contributed to the development and evaluation of baseline machine learning models for the Discussion Intelligence Toolkit.
+
+- Developed and evaluated baseline classification models for Reddit discourse analysis.
+- Compared model performance, including a majority-class baseline and TF-IDF with Logistic Regression.
+- Documented baseline models and evaluation results through [Pull Request #18](https://github.com/Break-Through-Tech/Market-Research-1A-discussion-intelligence-toolkit/pull/18), which was merged into the team repository.
+- Collaborated with team members on the project's development and integration.
 
 ## Project Highlights
 
