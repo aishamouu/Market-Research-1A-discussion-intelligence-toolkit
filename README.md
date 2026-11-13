@@ -195,7 +195,20 @@ For the final system, build a small held-out set of manually reviewed threads. S
 
 ## Results and Key Findings
 
-Update this section throughout the project. Include both successful and failed experiments when they changed the team’s direction.
+### Baseline Model Results
+
+The project uses the Coarse Discourse dataset, containing approximately 9,483 Reddit conversations and 115,827 utterances, to evaluate machine learning approaches for discourse classification.
+
+| Model | Accuracy |
+|---|---|
+| Majority-class baseline | Approximately 41% |
+| TF-IDF + Logistic Regression | Approximately 52% |
+
+### Key Findings
+
+- TF-IDF with Logistic Regression improved classification accuracy by approximately 11 percentage points compared with the baseline.
+- These initial results provide a reference point for evaluating more advanced NLP models.
+- Future work includes improving classification performance and integrating models into the full discussion analysis toolkit.
 
 Recommended result artifacts:
 
