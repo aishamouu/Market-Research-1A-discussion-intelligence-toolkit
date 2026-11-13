@@ -95,10 +95,9 @@ Replace or refine these bullets with measured results once the team has them.
 Use `uv` for local Python environments, dependency management, and project commands. Do not install project dependencies with `pip` directly.
 
 ```bash
-git clone https://github.com/Break-Through-Tech/Other-AI_Powered_Discussion_Intelligence_Toolkit.git
-cd Other-AI_Powered_Discussion_Intelligence_Toolkit
-uv sync
-uv run python -m ipykernel install --user --name discussion-intelligence
+git clone https://github.com/aishamouu/Market-Research-1A-discussion-intelligence-toolkit.git
+cd Market-Research-1A-discussion-intelligence-toolkit
+uv sync --locked
 ```
 
 Once the package structure exists, common commands should use `uv run`:
